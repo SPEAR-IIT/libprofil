@@ -1,1 +1,2 @@
-# libprofil
+# LibProfil - Profiling and Tracing tool for MPI applications
+Libprofil is a lightweight MPI profiling and tracing library intended to "discover" the topology of MPI applications when this is irregular or not known in advance. Although the library should work on any MPI implementation that supports MPI 3.0, I have only tested it on mpich and mvapich. The code was developed by Eduardo Berrrocal at the Illinois Institute of Technology.
